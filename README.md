@@ -24,7 +24,7 @@ pip install -r REQUIREMENTS
 ``
 * Usage
 
-Usage: `spammer.py [OPTIONS] PHONE_NUM`
+Usage: `sfam.py [OPTIONS] PHONE_NUM`
 
   This script will repeatedly send Grab Activation Code (GAC) to PHONE_NUM.
   PHONE_NUM must be a phone number in international format (example:
