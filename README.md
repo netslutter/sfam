@@ -21,4 +21,4 @@
 
 Released under [MIT](/LICENSE) by [@Punker-Bhai](https://github.com/Punker-Bhai)
 
-[𝙏𝙝𝙖𝙣𝙠𝙨 𝙩𝙤 𝙡𝙤𝙣𝙘𝙖𝙩](https://github.com/p4kl0nc4t)
+𝙏𝙝𝙖𝙣𝙠𝙨 𝙩𝙤 [𝙡𝙤𝙣𝙘𝙖𝙩](https://github.com/p4kl0nc4t)
