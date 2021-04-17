@@ -1,4 +1,5 @@
-[![Thanks to loncat](https://github.com/p4kl0nc4t)
+{Thanks to loncat](https://github.com/p4kl0nc4t)
+
 _Social buttons_
 
 [![Punker-Bhai - sfam](https://img.shields.io/static/v1?label=Punker-Bhai&message=sfam&color=blue&logo=github)](https://github.com/Punker-Bhai/sfam)
