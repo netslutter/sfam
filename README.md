@@ -8,6 +8,8 @@
 
 # ֆʄǟʍ
 ## Article by [𝙡𝙤𝙣𝙘𝙖𝙩](https://github.com/p4kl0nc4t) ⬇️
+* Dependencies
+[+] Python - `apt install python -y`
 * Installation
 You need at least Python 3.7 to run this new Spammer-Grab. First of all, you need to clone this repository
 
