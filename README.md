@@ -23,6 +23,7 @@ git clone https://github.com/Punker-Bhai/sfam.git
 pip install -r REQUIREMENTS
 ``
 * Usage
+
 Usage: `spammer.py [OPTIONS] PHONE_NUM`
 
   This script will repeatedly send Grab Activation Code (GAC) to PHONE_NUM.
