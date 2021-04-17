@@ -50,8 +50,8 @@ def send_gac_req(phone_num, cc):
         'data': {
             'phoneNumber': phone_num,
             'countryCode': cc,
-            'name': 'test',
-            'email': 'mail@mail.com',
+            'name': 'H4CKERsPunk',
+            'email': 'hackerspunk@pm.me',
             'deviceToken': '*'
         },
         'headers': {
