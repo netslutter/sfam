@@ -1,4 +1,4 @@
-{Thanks to loncat](https://github.com/p4kl0nc4t)
+[Thanks to loncat](https://github.com/p4kl0nc4t)
 
 _Social buttons_
 
