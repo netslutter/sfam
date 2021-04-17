@@ -7,7 +7,32 @@
 </p>
 
 # ֆʄǟʍ
+## Article by [𝙡𝙤𝙣𝙘𝙖𝙩](https://github.com/p4kl0nc4t) ⬇️
+* Installation
+You need at least Python 3.7 to run this new Spammer-Grab. First of all, you need to clone this repository
 
+```
+git clone https://github.com/Punker-Bhai/sfam.git
+```
+* Install all the required modules using pip
+
+``
+pip install -r REQUIREMENTS
+``
+* Usage
+Usage: `spammer.py [OPTIONS] PHONE_NUM`
+
+  This script will repeatedly send Grab Activation Code (GAC) to PHONE_NUM.
+  PHONE_NUM must be a phone number in international format (example:
+  6281323323232 with 62 prefix as the country code)
+
+* Options:
+```
+  -dl, --delay INTEGER      delay between each request wave
+  -li, --limit INTEGER      amount of request to send
+  -cc, --country_code TEXT  phone number country code
+  --help                    Show this message and exit.
+```
 
 [![Punker-Bhai - sfam](https://img.shields.io/static/v1?label=Punker-Bhai&message=sfam&color=blue&logo=github)](https://github.com/Punker-Bhai/sfam)
 [![stars - sfam](https://img.shields.io/github/stars/Punker-Bhai/sfam?style=social)](https://github.com/Punker-Bhai/sfam)
