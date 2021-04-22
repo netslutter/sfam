@@ -16,7 +16,7 @@
 You need at least Python 3.7 to run this new Spammer-Grab. First of all, you need to clone this repository
 
 ```
-git clone https://github.com/Punker-Bhai/sfam.git
+git clone https://github.com/hackerspunk/sfam.git
 ```
 * Install all the required modules using pip
 
